@@ -3,14 +3,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>io.github.pmmqarmtools</groupId>
+	<groupId>io.github.o9saf</groupId>
 	<artifactId>o9saf</artifactId>
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
 	<description>This project has java code that will be useful for automation</description>
-	<name>io.github.pmmqarmtools:o9saf</name>
+	<name>io.github.o9saf:o9saf</name>
 	<!-- FIXME change it to the project's website -->
-	<url>https://github.com/pmmQaRmTools/o9SAF/</url>
+	<url>https://github.com/o9saf/o9SAF/</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -124,9 +124,9 @@
 		</developer>
 	</developers>
 	<scm>
-		<connection>scm:git:git://github.com/pmmQaRmTools/o9SAF.git</connection>
-		<developerConnection>scm:git:ssh://github.com/pmmQaRmTools/o9SAF.git</developerConnection>
-		<url>https://github.com/pmmQaRmTools/o9SAF/tree/main</url>
+		<connection>scm:git:git://github.com/o9saf/o9SAF.git</connection>
+		<developerConnection>scm:git:ssh://github.com/o9saf/o9SAF.git</developerConnection>
+		<url>https://github.com/o9saf/o9SAF/tree/main</url>
 	</scm>
 	<build>
 		<!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
